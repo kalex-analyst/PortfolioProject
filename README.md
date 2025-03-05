@@ -7,7 +7,9 @@ Key Objectives
 •	Identify countries with the highest infection and death rates.
 •	Use window functions (e.g., SUM OVER PARTITION BY) to track cumulative vaccinations.
 •	Implement Common Table Expressions (CTEs) and Views for better query efficiency and future visualizations.
+
 Key Techniques Used
+
 ✔ Aggregations (SUM(), MAX(), AVG())
 ✔ Joins (INNER JOIN between COVID deaths and vaccination tables)
 ✔ Window Functions (SUM() OVER(PARTITION BY)) for cumulative calculations

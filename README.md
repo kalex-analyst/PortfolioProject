@@ -15,4 +15,4 @@ Key Techniques Used
 ✔ Window Functions (SUM() OVER(PARTITION BY)) for cumulative calculations
 ✔ Common Table Expressions (CTEs) for structured queries
 ✔ Views to store results for visualization tools
-By leveraging SQL, this project uncovers critical insights about COVID-19 trends, infection rates, and vaccination progress on both a country and global scale. 
+By leveraging SQL, this project uncovers critical insights about COVID-19 trends, infection rates, and vaccination progress on both a country and global scale.

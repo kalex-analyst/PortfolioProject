@@ -1,4 +1,4 @@
-Project Overview: SQL_Covid19Data_Exploration
+SQL Project Overview: Covid19Data_Exploration
 
 This project focuses on analyzing the COVID-19 dataset from Our World in Data using MySQL Workbench. The dataset, originally in Excel format, was converted into a CSV file and imported into MySQL for exploration and analysis.
 Key Objectives
